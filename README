@@ -1,0 +1,33 @@
+# 🛡️ Cybersecurity Bootcamp Portfolio
+
+Benvenuti nella repository ufficiale del mio percorso intensivo in Cybersecurity presso **Epicode School**.
+Qui raccolgo i project work pratici, gli script di automazione e le configurazioni di rete sviluppate durante il master.
+
+## 🗂️ I Miei Progetti Principali (Buildweeks)
+
+### ✅ 1. Network Infrastructure & Security Hardening (Mese 1)
+**Path:** `/UNIT1/S4-buildweek`
+**Stato:** Completato 🟢
+
+Progettazione e messa in sicurezza di un'infrastruttura di rete aziendale simulata.
+* **Architettura:** Segmentazione di rete (DMZ, LAN) e configurazione regole Firewall su **pfSense**.
+* **Automation:** Sviluppo di tool custom in **Python** (Port Scanner, Network Sniffer, HTTP Scanner).
+* **Testing:** Vulnerability Assessment su target virtualizzati.
+
+---
+
+### 🚧 2. Offensive Security & Web Vulnerabilities (Mese 2)
+**Path:** `/UNIT2/S4-buildweek`
+**Stato:** In lavorazione... 🟡
+
+*Il progetto sarà caricato a Gennaio 2026.*
+Focus previsto: Web Application Penetration Testing e sfruttamento vulnerabilità note.
+
+---
+
+### 📅 3. SIEM & SOC Operations (Mese 3)
+**Path:** `/UNIT3/S4-buildweek`
+**Stato:** In arrivo 🔴
+
+*Il progetto sarà caricato a Febbraio 2026.*
+Focus previsto: Log Analysis, Incident Detection & Response e configurazione SIEM.
