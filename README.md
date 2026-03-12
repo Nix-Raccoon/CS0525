@@ -10,13 +10,19 @@ Testing: Vulnerability Assessment su target virtualizzati.
 
 --------------------------------------------------------------------------------
 🚧 2. Offensive Security & Web Vulnerabilities (Mese 2)
-Path: /UNIT2/S4-buildweek Stato: In lavorazione... 🟡
-Il progetto sarà caricato a Gennaio 2026. Focus previsto: Web Application Penetration Testing e sfruttamento vulnerabilità note.
+Focus previsto: Web Application Penetration Testing e sfruttamento vulnerabilità note.
+Web App Attacks: Ricerca e sfruttamento di vulnerabilità come SQL Injection, Cross-Site Scripting (XSS) e CSRF.
+Web Proxy & Testing: Intercettazione, modifica e analisi del traffico HTTP/S e Fuzzing tramite Burp Suite (Repeater, Intruder, Sequencer).
+Exploitation & Post-Exploitation: Utilizzo avanzato di Metasploit Framework (MSFConsole) per la ricerca di vulnerabilità, l'invio di payload (MsfVenom) e l'apertura di sessioni Meterpreter sui target.
+Social Engineering: Esecuzione di attacchi di Phishing e Credential Harvesting tramite clonazione di pagine web (es. utilizzo del Social Engineer Toolkit - SET).
 
 --------------------------------------------------------------------------------
 📅 3. SIEM & SOC Operations (Mese 3)
-Path: /UNIT3/S4-buildweek Stato: In arrivo 🔴
-Il progetto sarà caricato a Febbraio 2026. Focus previsto: Log Analysis, Incident Detection & Response e configurazione SIEM.
+Focus previsto: Log Analysis, Incident Detection & Response e configurazione SIEM.
+SIEM & Monitoraggio: Raccolta, normalizzazione e correlazione degli eventi di sicurezza utilizzando Splunk e la suite Security Onion (ELK Stack: Elasticsearch, Logstash, Kibana).
+Analisi degli Allarmi (Triage): Valutazione degli alert tramite Sguil, distinguendo minacce reali da falsi positivi, e pivoting su Wireshark e log di Zeek per l'analisi forense dei pacchetti (PCAP).
+Incident Response: Applicazione del ciclo di vita della gestione degli incidenti basato sul framework NIST SP 800-61 (Preparazione, Rilevamento & Analisi, Contenimento, Eradicazione, Ripristino e Post-Incidente).
+Threat Mitigation: Individuazione di attacchi in corso (es. DoS, Brute Force, movimenti laterali) e definizione delle procedure di contenimento (es. isolamento host).
 
 --------------------------------------------------------------------------------
 📂 Struttura della Repository
